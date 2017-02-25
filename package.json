@@ -2,7 +2,7 @@
   "name": "southern",
   "version": "1.0.0",
   "description": "Angular 1.x Code Challenge",
-  "main": "server/index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.1",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "serve-favicon": "^2.4.0"
   }
 }
