@@ -1,0 +1,15 @@
+{
+  "name": "southern",
+  "version": "1.0.0",
+  "description": "Angular 1.x Code Challenge",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Josh Bailey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "path": "^0.12.7"
+  }
+}
